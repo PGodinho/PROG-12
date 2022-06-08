@@ -1,4 +1,4 @@
-/* NOME: Paulo Godinho */
+/* NOME:  */
 --***--
 SHOW DATABASES;
 -- 0 --
