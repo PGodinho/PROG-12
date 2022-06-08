@@ -1,4 +1,4 @@
-/* NOME: Paulo Godinho */
+/* NOME:  */
 --Falta o script de ligação à base de dados--
 SHOW DATABASES;
 /* ------Criar db----------- */
